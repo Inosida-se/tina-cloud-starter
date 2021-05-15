@@ -33,7 +33,7 @@ blocks:
       We've built a few pages for you to get started, take a look around and see
       if you can figure out how to build your own pages and templates.
   - template: diagram
-    diagramHeading: Whimsical Diagram
+    diagramHeading: Cool
     diagramDescription: >-
       Here is the architecture for this Next.js app. When deployed, your admin
       routes will be protected by the Tina wrapper, which requires you to
