@@ -1,6 +1,6 @@
 ---
-title: Vote For Pedro
-author: content/authors/pedro.md
+title: Vote For August
+author: content/authors/napolean.md
 _template: article
 ---
 
